@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "brand": "Honda",
+        "year": 2007,
+        "model": "Accord Euro",
+        "body_type": "Sedan",
+        "colour": "Silver",
+        "image": "https://test-img-turners.s3.ap-southeast-2.amazonaws.com/db-imgs/honda-accord.jpg"
+    },
+    {
+        "id": 2,
+        "brand": "Lexus",
+        "year": 2008,
+        "model": "IS250",
+        "body_type": "Sedan",
+        "colour": "Red",
+        "image": "https://test-img-turners.s3.ap-southeast-2.amazonaws.com/db-imgs/lexus-is250.jpg"
+    },
+    {
+        "id": 3,
+        "brand": "Mazda",
+        "year": 2005,
+        "model": "Atenza",
+        "body_type": "Sedan",
+        "colour": "Blue",
+        "image": "https://test-img-turners.s3.ap-southeast-2.amazonaws.com/db-imgs/mazda-atenza.jpg"
+    },
+    {
+        "id": 4,
+        "brand": "Ford",
+        "year": 2011,
+        "model": "Ranger",
+        "body_type": "Utility",
+        "colour": "Red",
+        "image": "https://test-img-turners.s3.ap-southeast-2.amazonaws.com/db-imgs/ford-ranger.jpg"
+    },
+    {
+        "id": 5,
+        "brand": "Kia",
+        "year": 2014,
+        "model": "Sportage",
+        "body_type": "SUV",
+        "colour": "Silver",
+        "image": "https://test-img-turners.s3.ap-southeast-2.amazonaws.com/db-imgs/kia-sportage.jpg"
+    },
+    {
+        "id": 6,
+        "brand": "Jeep",
+        "year": 2018,
+        "model": "Compass",
+        "body_type": "SUV",
+        "colour": "Blue",
+        "image": "https://test-img-turners.s3.ap-southeast-2.amazonaws.com/db-imgs/jeep-compass.jpg"
+    },
+    {
+        "id": 7,
+        "brand": "Toyota",
+        "year": 2012,
+        "model": "Camry",
+        "body_type": "Sedan",
+        "colour": "Silver",
+        "image": "https://test-img-turners.s3.ap-southeast-2.amazonaws.com/db-imgs/toyota-camry.jpg"
+    },
+    {
+        "id": 8,
+        "brand": "Toyota",
+        "year": 2017,
+        "model": "Hilux",
+        "body_type": "Utility",
+        "colour": "Silver",
+        "image": "https://test-img-turners.s3.ap-southeast-2.amazonaws.com/db-imgs/toyota-hilux.jpg"
+    },
+    {
+        "id": 9,
+        "brand": "Nissan",
+        "year": 2019,
+        "model": "NV350",
+        "body_type": "Van",
+        "colour": "Blue",
+        "image": "https://test-img-turners.s3.ap-southeast-2.amazonaws.com/db-imgs/nissan-nv350.jpg"
+    },
+    {
+        "id": 10,
+        "brand": "Mitsubishi",
+        "year": 2014,
+        "model": "L300",
+        "body_type": "Van",
+        "colour": "White",
+        "image": "https://test-img-turners.s3.ap-southeast-2.amazonaws.com/db-imgs/mitsubishi-l300.jpg"
+    }
+]

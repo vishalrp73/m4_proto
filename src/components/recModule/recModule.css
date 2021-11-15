@@ -1,0 +1,6 @@
+.rec-module-container {
+    width: 80%;
+    display: flex;
+    margin: 20px auto;
+    color: rgba(255, 255, 255);
+}

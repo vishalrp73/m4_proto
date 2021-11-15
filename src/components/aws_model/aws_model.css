@@ -1,0 +1,65 @@
+@media screen and (max-width: 1150px) {
+    .start_stop-wrap {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    #model-desc-title {
+        font-size: 12px;
+    }
+}
+
+.aws_model-wrapper {
+    width: 30%;
+    background-color: rgba(40, 40, 40);
+    border: 4px outset rgba(200, 200, 200);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px auto;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 1px 16px 10px rgb(0, 0, 0, 0.1);
+}
+
+.start_stop-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.model-desc {
+    color: rgba(255, 255, 255);
+    font-size: 12px;
+    text-align: center;
+    margin: 0;
+}
+
+.model-btn {
+    height: 40px;
+    margin: 10px 10px;
+    border-radius: 8px;
+    border-style: outset;
+    border-width: 4px;
+    border-color: rgb(50, 50, 50);
+    color: rgba(255, 255, 255);
+    font-weight: bolder;
+}
+
+.model-btn:hover {
+    filter: brightness(1.5);
+}
+
+.model-btn:active {
+    filter: brightness(0.5);
+}
+
+#start-btn {
+    background-color: rgb(29, 235, 29);
+}
+
+#stop-btn {
+    background-color: rgb(245, 42, 42);
+}
