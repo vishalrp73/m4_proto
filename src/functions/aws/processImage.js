@@ -39,7 +39,7 @@ export const ProcessImage = (e) => {
                 queryImage: image
             }
             
-            /* axios.post('http://localhost:4000/postImg', query)
+            /* axios.post('postImg', query)
             .then ( (response) => {
                 const rekoResp = response.data;
                 let conv = JSON.stringify(rekoResp);
@@ -47,7 +47,7 @@ export const ProcessImage = (e) => {
             })
             .catch (err => console.log(err)); */
 
-            axios.get('http://localhost:4000/test', query)
+            axios.get('test', query)
             .then (response => {
                 let conv = JSON.stringify(response.data);
                 localStorage.setItem('rek_resp', conv);

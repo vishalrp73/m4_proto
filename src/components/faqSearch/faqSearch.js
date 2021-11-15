@@ -57,7 +57,7 @@ const FaqSearch = (props) => {
             queryText: cleanStr
         }
 
-        axios.post('http://localhost:4000/query', query)
+        axios.post('query', query)
         .then (function (response) {
             const topArr = [];
             setAnsRes(response);
