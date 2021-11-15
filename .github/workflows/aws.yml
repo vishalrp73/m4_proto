@@ -18,7 +18,7 @@ on:
       - main
 
 env:
-  AWS_REGION: ap-southeast-2                   # set this to your preferred AWS region, e.g. us-west-1
+  AWS_REGION: us-east-1                   # set this to your preferred AWS region, e.g. us-west-1
   ECR_REPOSITORY: m4_proto           # set this to your Amazon ECR repository name
   ECS_SERVICE: m4-container-service                 # set this to your Amazon ECS service name
   ECS_CLUSTER: m4-client-cluster                 # set this to your Amazon ECS cluster name
