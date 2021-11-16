@@ -16,7 +16,7 @@ const Header = (props) => {
     return (
         <div className = 'header-wrap' style = {{ flexDirection: status ? 'row' : 'column' }}>
             <img src = { logo } className = 'turners-logo' alt = 'turners-logo' />
-            <h1 style={{textAlign: 'center'}}>TESTING THAT DEPLOY UPDATES V6</h1>
+            {/* <h1 style={{textAlign: 'center'}}>TESTING THAT DEPLOY UPDATES V6</h1> */}
 
             <AWSModel
                 status = {props.status} />
